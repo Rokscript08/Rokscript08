@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Rokscript08
 - 👀 I’m interested in ROS and robotics
-- 🌱 I’m currently learning UnrealC++
+- 🤖 I work on robotics simulation
+- 🌱 I love learning UnrealC++
 - 💞️ I’m looking to collaborate on Autonomous vehicles
 - 📫 How to reach me ...
 
